@@ -6,7 +6,7 @@
 <h3>No. Of Seats</h3>
 <img src="Sc/seats.png">
 <h3>Seats</h3>
-<img src="Sc/SeleactedSeats.png">
+<img src="Sc/selectedSeats.png">
 <h3>Seleacted Setas</h3>
 <img src="Sc/details.png">
 <h3>Booking Details</h3>
