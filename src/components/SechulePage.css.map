@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,OAAO;CAS5B;;AAXD,AAGI,SAHK,GAGJ,GAAG,CAAA;EACA,UAAU,EAAE,IAAI;EAChB,OAAO,EAAC,IAAI;EACZ,YAAY,EAAE,IAAI;EAClB,KAAK,EAAC,KAAK;EACX,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "SechulePage.scss"
+    ],
+    "names": [],
+    "file": "SechulePage.css"
+}

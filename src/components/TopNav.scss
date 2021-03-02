@@ -1,0 +1,39 @@
+.TopNav{
+    background-color: #333545;
+    height: 65px;
+    width: 100%;
+    img{
+        height: 50%;
+        width: 120px;
+        float: left;
+        margin-left: 10%;
+        margin-top: 15px;
+    }
+    .searchBar{
+        float: left;
+        margin-top: 12px;
+        margin-left: 15px;
+        position: relative;
+       
+        width: 520px;
+        >i{
+            position: absolute;
+            top:12px;
+            left: 15px;
+            color:#C3C3C3;
+            font-size: 15px;       
+        }
+       input{
+           height: 30px;
+           width: 100%;
+           border-radius: 5px;
+           padding-left: 40px; 
+           font-size: 14px;   
+           color:#C3C3C3;
+           padding-top: 3px;
+           outline: none;
+           
+       }
+
+    }
+}

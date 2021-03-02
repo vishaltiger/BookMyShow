@@ -1,0 +1,102 @@
+.active{
+ filter: brightness(5%);
+}
+
+.SchedulePage{
+    background-color: #F2F2F2;
+overflow: hidden;
+
+.TitleNav{
+        height: 120px;
+        text-align: left;
+        padding-left: 120px;
+        padding-top: 30px;
+        color:white;
+        font-size: 35px;
+        font-weight: bold;
+        background-color: #333545;
+    }
+    .date{
+        float: left;
+        display: flex;
+        flex-direction: row;
+        padding-left: 8%;
+        filter: drop-shadow(0px 0px 0.5px gray);
+        width: 100%;
+       
+        padding-bottom: 3px;
+        background-color: white;
+        padding-top: 10px;
+        >div{
+            display: flex;
+            flex-direction: column;
+          margin-right: 10px;
+          height: 35px;
+          width: 65px;
+          padding-top: 3px;
+          padding-bottom: 5px;
+          border-radius: 10px;
+         
+          font-size: 16px;
+          color: black;
+          >.day{
+              font-size: 12px;
+          }
+        }
+        >div:hover{
+             color: #F84464;  
+             cursor: pointer;
+        }
+        >div:active{
+            background-color:#F84464;
+            color: white;
+        }
+    }
+   
+.mainTheatreBody{
+    background-color: white;
+    height: auto;
+    width: 85%;
+    margin: auto;
+   
+    margin-top: 5%;
+    >div{
+        display: flex;
+        flex-direction: row;
+        height: 60px;
+        width: 100%;
+        border-bottom: 1px solid #f2f2f2;
+        margin-bottom: 2px;
+        padding:30px;
+
+        >i{
+        outline: black;
+        color:rgb(241, 57, 57);
+        -webkit-text-stroke-width: 0.5px;
+        -webkit-text-stroke-color: gray;
+        margin-top: 2px;
+        }
+        span{
+            margin-left: 1%;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        button{
+            margin-left: 8%;
+            margin-top: 20px;
+            width: 100px;
+            height: 40px;
+            text-align: center;
+            font-size: 12px;
+            border:1px solid gray;
+            border-radius: 5px;
+            background-color: white;
+            cursor: pointer;
+            color:#3edf58;
+            outline: none;
+        }
+       
+    }
+}
+
+}
