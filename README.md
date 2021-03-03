@@ -1,11 +1,11 @@
 <h1>How To Run</h1>
-<p>steps:
+<p>steps:<br>
 1.Go to bookmyshow directory after cloning from github.<br>
   2.Open cmd prompt and run cmd <i><strong>npm install</strong></i><br>
   3.Then to install sass run  <i><strong>npm install -g sass</strong></i> <br>
   4.go to bookmyshow/src directory and run cmd  <i><strong>sass --watch </strong></i><br>
-  5.then start the application by "npm start".  <br><br>
-
+  5.Then return to bookmyshow directory and  start the application by <i><strong>npm start</strong></i>  <br><br>
+</p>
 
 <img src="Sc/home.png">
 <h3>Home</h3>
