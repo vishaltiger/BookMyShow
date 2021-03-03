@@ -1,6 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom'; 
 import Slider from "./components/slider";
 import TopNav from "./components/TopNav";
